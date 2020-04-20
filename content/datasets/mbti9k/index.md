@@ -1,6 +1,7 @@
++++
 # Course title, summary, and position in the list.
-linktitle: MBTI9k
-summary: MBTI9k is first publicly available dataset based on Reddit for personality (MBTI) prediction
+# linktitle: MBTI9k
+subtitle: MBTI9k is first publicly available dataset based on Reddit for personality (MBTI) prediction
 weight: 1
 
 # Page metadata.
@@ -18,3 +19,5 @@ menu:
   MBTI9k:
     name: MBTI9k
     weight: 1
+
++++
