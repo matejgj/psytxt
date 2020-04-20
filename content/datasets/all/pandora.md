@@ -1,9 +1,9 @@
 ---
-title: Example Page 1
-linktitle: Tips 1-2
+title: PANDORA
+linktitle: PANDORA
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+# date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   all:
