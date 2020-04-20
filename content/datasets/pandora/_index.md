@@ -1,11 +1,10 @@
----
-# Course title, summary, and position.
-linktitle: Datasets
-summary: Get more information about the datasets we compiled
+# Course title, summary, and position in the list.
+linktitle: PANDORA
+summary: PANDORA is first publicly available dataset based on Reddit containing multiple personality models (Big 5, MBTI, Enneagram) and demographics (age, gender, location)
 weight: 1
 
 # Page metadata.
-title: Datasets
+title: PANDORA
 # date: "2018-09-09T00:00:00Z"
 # lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -15,12 +14,7 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  all:
-    name: Datasets
-    weight: 1
----
-
-Some description on what we do generally about the datasets and why did we use Reddit
-
-Describe that we first did M9k and then PANDORA
+ menu:
+  PANDORA:
+    name: PANDORA.pandora
+    weight: 2
