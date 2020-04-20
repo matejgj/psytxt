@@ -19,7 +19,7 @@ subtitle = ""
                  #"Grad Students",
                  #"Administration",
                  #"Visitors",
-                 #"Alumni"
+                 #"Alumni",
                  ]
 
 [design]

@@ -66,8 +66,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Administration
+#- Researchers
+#- Visitors
 ---
 
 psy.txt is an interdisciplinary group that combines research methodologies from both NLP and
