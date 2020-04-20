@@ -15,6 +15,6 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  datasets:
+  MBTI9k:
     name: MBTI9k
     weight: 1
