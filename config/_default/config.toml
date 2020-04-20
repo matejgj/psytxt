@@ -20,7 +20,7 @@ copyright = "TakeLab"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "takelab"
+theme = "ocean"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
