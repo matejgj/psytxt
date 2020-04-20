@@ -14,6 +14,6 @@ menu:
 weight: 1
 ---
 
-#Description
+# Description
 
-#Basic Stats
+# Basic Stats
