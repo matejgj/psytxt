@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor at the Faculty of Electrical Engineering and Computing (FER) at the University of Zagreb and a member of Text Analysis and Knowledge Engineering Lab (TakeLab)
+role: Martial arts guru
 # Organizations/Affiliations
 organizations:
 - name: TakeLab, FER
