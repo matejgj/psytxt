@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Datasets
-summary: Get more information about the datasets we compiled
+summary: Get more information about our datasets
 weight: 1
 
 # Page metadata.
