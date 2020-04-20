@@ -14,7 +14,7 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-# menu:
-#  MBTI9k:
-#    name: MBTI9k
-#    weight: 1
+ menu:
+  MBTI9k:
+    name: MBTI9k
+    weight: 1
