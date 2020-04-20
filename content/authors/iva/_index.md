@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Group's psychologist
+role: Psychologist on duty
 # Organizations/Affiliations
 organizations:
 - name: TakeLab, FER
