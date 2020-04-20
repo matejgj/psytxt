@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Datasets"
-  url = "datasets/"
+  url = "datasets/all/"
   weight = 50
 
 [[main]]
