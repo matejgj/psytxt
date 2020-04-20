@@ -1,6 +1,6 @@
 ---
 # Display name
-name: psy.txt
+name: 
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ role: Personality Psychology meets Natural Language Processing
 
 # Organizations/Affiliations
 organizations:
-- name: TakeLab, FER
-  url: ""
+- name: TakeLab, FER, University of Zagreb
+  url: "https://takelab.fer.hr"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
