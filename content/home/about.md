@@ -12,3 +12,5 @@ title = "About us"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+{{< figure library="true" src="team_small.jpg" title="A caption" lightbox="true" >}}
