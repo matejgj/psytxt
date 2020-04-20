@@ -13,4 +13,3 @@ title = "About us"
 author = "admin"
 +++
 
-{{< figure library="true" src="team_small.jpg" title="psy.txt team" lightbox="true" >}}

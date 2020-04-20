@@ -73,4 +73,5 @@ user_groups:
 
 psy.txt is an interdisciplinary group that combines research methodologies from both NLP and
 personality psychology.
+{{< figure library="true" src="team_small.jpg" title="psy.txt team" lightbox="true" >}}
 
