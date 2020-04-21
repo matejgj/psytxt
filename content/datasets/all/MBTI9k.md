@@ -16,4 +16,7 @@ weight: 1
 
 ## Description
 
+[Paper]({{< ref "/publication/gjurkovic-snajder-2018-reddit/index.md" >}})
+
+
 ## Basic Stats
