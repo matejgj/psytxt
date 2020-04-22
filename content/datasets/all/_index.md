@@ -37,7 +37,7 @@ Moreover, currently available datasets have many shortcomings:
 ## Our approach
 
 We identified Reddit as a source of data that addresses most of these concerns:
-* there are many users which write a **lot** of comments;
+* there are many users which write **a lot** of comments;
 * over a million of subreddits enable users to express their opinions on multitude of topics;
 * user are anonymus which means they write about **everything**;
 * the quality of writing is above average for a social media site.
