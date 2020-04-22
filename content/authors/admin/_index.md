@@ -70,8 +70,22 @@ user_groups:
 #- Researchers
 #- Visitors
 ---
+We are a team of computer scientists that want to be psychologist and psychologists that want to be computer scientists.
 
-psy.txt is an interdisciplinary group that combines research methodologies from both NLP and
-personality psychology.
+With this project, we aim to set the ground for a truly interdisciplinary perspective on
+computational personality research by developing datasets and models for personality
+prediction and analysis based on online textual interactions. The overarching goal of our
+project is to bring the two communities closer together and ultimately increase their capacity
+to carry out relevant and valid research using computational text analysis methods,
+contributing to both research fields. To this end, the project will focus on three research
+objectives: 
+1. Development of datasets adequate for text-based personality research.
+2. Development of comprehensive NLP models for personality prediction and analysis.
+3. Investigating a number of research questions that relate personality psychology to
+language use by means of confirmatory and exploratory studies that leverage the developed
+datasets and computational models.
+
+
+We are part of Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb.
 {{< figure library="true" src="team_small.jpg" title="psy.txt team" lightbox="true" >}}
 
