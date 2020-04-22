@@ -18,6 +18,6 @@ autolink = true
 email_form = 2
 +++
 
-If you are interested in our datasets, please submit a request with more information [here]({{< ref "/datasets/all/index.md" >}}).
+If you are interested in our datasets, please submit a request with more information [here]({{< ref "/datasets/all/_index.md" >}}).
 
 
