@@ -86,6 +86,6 @@ language use by means of confirmatory and exploratory studies that leverage the 
 datasets and computational models.
 
 
-We are part of [Text Analysis and Knowledge Engineering Lab](https://www.takelab.fer.hr) at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.hr).
+We are part of [Text Analysis and Knowledge Engineering Lab](http://www.takelab.fer.hr) at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/en).
 {{< figure library="true" src="team_small.jpg" title="psy.txt team" lightbox="true" >}}
 
