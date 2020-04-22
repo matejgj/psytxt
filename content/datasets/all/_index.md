@@ -42,7 +42,7 @@ We identified Reddit as a source of data that addresses most of these concerns:
 * user are anonymus which means they write about **everything**
 * the quality of writing is above average for a social media site
 
-## ## [MBTI9k]({{< ref "/datasets/all/MBTI9k.md" >}})
+## [MBTI9k]({{< ref "/datasets/all/MBTI9k.md" >}})
 
 In our first step, we compiled a large-scale dataset by using flairs -- short descriptors used by users to introduce themselves in a particul subreddit. User write all kinds of relevant information in their flairs and in MBTI subreddits they disclose their own MBTI type. We used this to extract personality labels for our dataset -- first of its kind on Reddit.
 
