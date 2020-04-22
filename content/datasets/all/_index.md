@@ -20,10 +20,39 @@ menu:
     name: Datasets
     weight: 1
 ---
+## Background
 
-Some description on what we do generally about the datasets and why did we use Reddit
+Soon after we started doing text-based personality prediction we realized that the main problem is a lack of appropriate datasets.
 
-Describe that we first did M9k and then PANDORA
+The main reason is that it is very hard to find the labels, especially the ones that can be trusted. This can be traced back to privacy issues and high labelling costs.
+
+Moreover, currently available datasets have many shortcomings:
+* small in number of users and/or comments
+* limited expressivity (e.g., on Twitter)
+* non-anonimity (e.g., on Facebook, which makes users more reluctant to express their opinions)
+* low topic diversity (e.g., forums)
+* heavy bias towards personality themes (e.g., personality forums) 
+* no demographics
+
+## Our approach
+
+We identified Reddit as a source of data that addresses most of these concerns:
+* there are many users which write a **lot** of comments
+* over a million of subreddits enable users to express their opinions on multitude of topics 
+* user are anonymus which means they write about **everything**
+* the quality of writing is above average for a social media site
+
+## ## [MBTI9k]({{< ref "/datasets/all/MBTI9k.md" >}})
+
+In our first step, we compiled a large-scale dataset by using flairs -- short descriptors used by users to introduce themselves in a particul subreddit. User write all kinds of relevant information in their flairs and in MBTI subreddits they disclose their own MBTI type. We used this to extract personality labels for our dataset -- first of its kind on Reddit.
+
+## [PANDORA]({{< ref "/datasets/all/pandora.md" >}})
+
+Our latest dataset -- PANDORA -- is a natural step forward. As MBTI is not seen as a relevant model in personality psychology, we introduced Big 5 labels. We also addressed the other major shortcoming which is the lack of demographic variables. These are especially important for two reasons: (1) they are often the source of biases in NLP models and (2) personality traits are much harder to infer based on text than demographics which means they have to be controlled for in order to avoid coming to wrong conclusions.
+
+
+
+
 
 
 ## Dataset Request Form
