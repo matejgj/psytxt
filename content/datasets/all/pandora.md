@@ -84,7 +84,7 @@ weight: 1
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -111,15 +111,16 @@ weight: 1
 
     .dataframe tbody tr th {
         vertical-align: top;
+        font-size: small;
     }
 
     .dataframe thead th {
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
-    <tr style="text-align: right;">
+    <tr style="text-align: right">
       <th></th>
       <th>age</th>
       <th>agreeableness</th>
@@ -127,98 +128,98 @@ weight: 1
       <th>conscientiousness</th>
       <th>extraversion</th>
       <th>neuroticism</th>
-      <th>num_comments</th>
-      <th>en_comments</th>
+      <th>comments</th>
+      <th>in english</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+     <tr>
       <th>count</th>
-      <td>2324.000000</td>
-      <td>1606.000000</td>
-      <td>1588.000000</td>
-      <td>1605.000000</td>
-      <td>1608.00000</td>
-      <td>1603.000000</td>
-      <td>10295.000000</td>
-      <td>10295.000000</td>
+      <td>2324</td>
+      <td>1606</td>
+      <td>1588</td>
+      <td>1605</td>
+      <td>1608</td>
+      <td>1603</td>
+      <td>10295</td>
+      <td>10295</td>
     </tr>
     <tr>
       <th>mean</th>
-      <td>25.676850</td>
-      <td>42.396949</td>
-      <td>62.454345</td>
-      <td>40.162617</td>
-      <td>37.37500</td>
-      <td>49.783219</td>
-      <td>1819.701408</td>
-      <td>1714.602914</td>
+      <td>25.68</td>
+      <td>42.40</td>
+      <td>62.45</td>
+      <td>40.16</td>
+      <td>37.38</td>
+      <td>49.78</td>
+      <td>1819</td>
+      <td>1714</td>
     </tr>
     <tr>
       <th>std</th>
-      <td>7.069068</td>
-      <td>31.041252</td>
-      <td>27.780811</td>
-      <td>30.394938</td>
-      <td>30.47874</td>
-      <td>32.374254</td>
-      <td>4104.100439</td>
-      <td>3866.514656</td>
+      <td>7.07</td>
+      <td>31.04</td>
+      <td>27.78</td>
+      <td>30.39</td>
+      <td>30.47</td>
+      <td>32.37</td>
+      <td>4104</td>
+      <td>3866</td>
     </tr>
     <tr>
       <th>min</th>
-      <td>14.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.000000</td>
-      <td>0.00000</td>
-      <td>0.000000</td>
-      <td>1.000000</td>
-      <td>1.000000</td>
+      <td>14</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
       <th>25%</th>
-      <td>21.000000</td>
-      <td>14.000000</td>
-      <td>43.750000</td>
-      <td>13.000000</td>
-      <td>10.00000</td>
-      <td>18.500000</td>
-      <td>219.000000</td>
-      <td>206.000000</td>
+      <td>21</td>
+      <td>14</td>
+      <td>44</td>
+      <td>13</td>
+      <td>10</td>
+      <td>19</td>
+      <td>219</td>
+      <td>206</td>
     </tr>
     <tr>
       <th>50%</th>
-      <td>24.000000</td>
-      <td>40.000000</td>
-      <td>69.000000</td>
-      <td>35.000000</td>
-      <td>30.00000</td>
-      <td>50.000000</td>
-      <td>604.000000</td>
-      <td>569.000000</td>
+      <td>24</td>
+      <td>40</td>
+      <td>69</td>
+      <td>35</td>
+      <td>30</td>
+      <td>50</td>
+      <td>604</td>
+      <td>569</td>
     </tr>
     <tr>
       <th>75%</th>
-      <td>29.000000</td>
-      <td>70.000000</td>
-      <td>85.000000</td>
-      <td>65.000000</td>
-      <td>61.12500</td>
-      <td>82.000000</td>
-      <td>1729.000000</td>
-      <td>1616.000000</td>
+      <td>29</td>
+      <td>70</td>
+      <td>85</td>
+      <td>65</td>
+      <td>61</td>
+      <td>82</td>
+      <td>1729</td>
+      <td>1616</td>
     </tr>
     <tr>
       <th>max</th>
-      <td>67.000000</td>
-      <td>100.000000</td>
-      <td>100.000000</td>
-      <td>99.000000</td>
-      <td>99.00000</td>
-      <td>100.000000</td>
-      <td>101789.000000</td>
-      <td>99568.000000</td>
+      <td>67</td>
+      <td>100</td>
+      <td>100</td>
+      <td>99</td>
+      <td>99</td>
+      <td>100</td>
+      <td>101789</td>
+      <td>99568</td>
     </tr>
   </tbody>
 </table>
@@ -239,7 +240,7 @@ weight: 1
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -283,7 +284,7 @@ weight: 1
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -345,7 +346,7 @@ weight: 1
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -393,7 +394,7 @@ weight: 1
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -435,7 +436,7 @@ weight: 1
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -485,7 +486,7 @@ weight: 1
         text-align: right;
     }
 </style>
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
