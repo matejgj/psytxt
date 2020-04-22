@@ -16,7 +16,7 @@ weight: 1
 
 ## Description
 
-[Paper]({{< ref "/publication/gjurkovic-2020-pandora/index.md" >}})
+[Paper]({{< ref "https://psy.takelab.fer.hr/publication/gjurkovic-2020-pandora/index.md" >}})
 
 ## Basic Stats
 
