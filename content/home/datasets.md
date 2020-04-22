@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 125  # Order that this section will appear.
 
-title = "Our Datasets"
+title = "Datasets"
+subtitle = "Large-scale datasets of Reddit comments labeled with personality and demographics
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -42,9 +43,9 @@ title = "Our Datasets"
   icon_pack = "fas"
   icon = "info"
   
-[cta_alt]
-  url = "https://psytxt.netlify.app/datasets/all//"
-  label = "View Documentation"
+# [cta_alt]
+ # url = "https://psytxt.netlify.app/datasets/all//"
+ # label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
