@@ -120,7 +120,7 @@ weight: 1
 </style>
 <table border="0" class="dataframe">
   <thead>
-    <tr style="text-align: right">
+    <tr style="text-align: right; font-size: small">
       <th></th>
       <th>age</th>
       <th>agreeableness</th>
