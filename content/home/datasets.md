@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 125  # Order that this section will appear.
 
 title = "Datasets"
-subtitle = "Large-scale datasets of Reddit comments labeled with personality and demographics
+subtitle = "Large-scale datasets of Reddit comments labeled with personality and demographics"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
