@@ -38,7 +38,7 @@ subtitle = "Large-scale datasets of Reddit comments labeled with personality and
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://psy.takelab.fer.hr/datasets/all/"
+  url = "/datasets/all/"
   # url = {{< ref "/publication/gjurkovic-2020-pandora/index.md" >}}
   label = "Find out more"
   icon_pack = "fas"
