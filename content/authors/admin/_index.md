@@ -70,7 +70,7 @@ user_groups:
 #- Researchers
 #- Visitors
 ---
-We are a team of computer scientists that want to be psychologist and psychologists that want to be computer scientists.
+We are a team of computer scientists that want to be psychologists and psychologists that want to be computer scientists.
 
 With this project, we aim to set the ground for a truly interdisciplinary perspective on
 computational personality research by developing datasets and models for personality
