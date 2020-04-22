@@ -21,7 +21,7 @@ subtitle = "Large-scale datasets of Reddit comments labeled with personality and
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
+  gradient_start = "#52d0f9"
   gradient_end = "#2b94c3"
   
   # Background image.
