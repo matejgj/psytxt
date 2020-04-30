@@ -42,7 +42,8 @@ These are the performances of our baseline models as described in [paper]({{< re
 | Extraversion      | \.271 | \.327             | \.058 | \.286 |  **\.393**  | \.167 |
 | Age               | \.704 |  **\.750**  | \.469 | \-\-  | \-\-              | \.396 |
 
-Results of the LR model for different feature combinations including N-grams (N), MBTI/Enneagram predictions (P), and all other features (O). Scores are macro-averaged F1 score for classification tasks and Pearson correlation coefficient for regression tasks.
+Results of the LR model for different feature combinations including N-grams (N), MBTI/Enneagram predictions (P), and all other features (O). 
+Scores are macro-averaged F1 score for classification tasks and Pearson correlation coefficient for regression tasks. 
 Best results are given in bold.
 
 ## Basic Stats
