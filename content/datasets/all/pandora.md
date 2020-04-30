@@ -18,6 +18,33 @@ weight: 1
 
 [Paper]({{< ref "https://psy.takelab.fer.hr/publication/gjurkovic-2020-pandora/index.md" >}})
 
+
+## Prediction
+
+In line with the idea of reproducible research we provide with the dataset folds that we used for our baseline models so all prediction results can be compared. 
+We will try to maintain a leadboard.
+
+These are the performances of our baseline models as described in [paper]({{< ref "https://psy.takelab.fer.hr/publication/gjurkovic-2020-pandora/index.md" >}}). 
+
+| Model / Features  | NO    | N                 | O     | NOP   | NP                | DL    |
+|-------------------|-------|-------------------|-------|-------|-------------------|-------|
+| Introverted       | \.649 |  **.653** | \.559 | \-\-  | \-\-              | \.546 |
+| Intuitive         | \.599 |  **\.602**  | \.518 | \-\-  | \-\-              | \.528 |
+| Thinking          | \.730 |  **\.739**  | \.678 | \-\-  | \-\-              | \.634 |
+| Perceiving        | \.626 |  **\.641**  | \.586 | \-\-  | \-\-              | \.566 |
+| Enneagram         | \.155 |  **\.174**  | \.145 | \-\-  | \-\-              | \.143 |
+| Gender            | \.889 |  **\.905**  | \.825 | \-\-  | \-\-              | \.843 |
+| Region            | \.206 |  **\.592**  | \.144 | \-\-  | \-\-              | \.478 |
+| Agreeableness     | \.181 | \.231             | \.085 | \.237 |  **\.272**  | \.210 |
+| Openness          | \.235 |  **\.265**  | \.180 | \.235 | \.252             | \.159 |
+| Conscientiousness | \.194 | \.188             | \.093 | \.245 |  **\.272**  | \.120 |
+| Neuroticism       | \.194 | \.242             | \.138 | \.266 |  **\.284**  | \.149 |
+| Extraversion      | \.271 | \.327             | \.058 | \.286 |  **\.393**  | \.167 |
+| Age               | \.704 |  **\.750**  | \.469 | \-\-  | \-\-              | \.396 |
+
+Results of the LR model for different feature combinations including N-grams (N), MBTI/Enneagram predictions (P), and all other features (O). Scores are macro-averaged F1 score for classification tasks and Pearson correlation coefficient for regression tasks.
+Best results are given in bold.
+
 ## Basic Stats
 
 
