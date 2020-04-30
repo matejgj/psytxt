@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Matej's bio
+bio:
 
 #interests:
 #- Artificial Intelligence
@@ -69,6 +69,14 @@ user_groups:
 #- Visitors
 ---
 
+I am that "what if" guy that generates much more questions than they can be answered which is also a primary reason why I enrolled in a PhD program after years of working as a software engineer. 
 
-Long bio
+I have always had an interest in psychology, but only as a hobby. This changed when I started learning about ML and in particular NLP and got an idea to combine those fields with psychology.
+
+I am currently focused on the development of resources that can help to tackle the challenge of automating personality traits recognition based on the text.
+
+In my free time, I like to do psychological experiments on myself and go beyond the comfort zone. I am into long distance trail running, rock and alpine climbing, and mountaineering. I finished multiple races over 100 km and climbed over 7000 m.
+ 
+
+
 
