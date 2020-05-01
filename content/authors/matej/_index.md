@@ -75,8 +75,7 @@ I have always had an interest in psychology, but only as a hobby. This changed w
 
 I am currently focused on the development of resources that can help to tackle the challenge of automating personality traits recognition based on the text.
 
-In my free time, I like to do psychological experiments on myself and go beyond the comfort zone. I am into long distance trail running, rock and alpine climbing, and mountaineering. I finished multiple races over 100 km and climbed over 7000 m.
- 
+In my free time, I like to do psychological experiments on myself and push out of the comfort zone. I am into long distance trail running, rock and alpine climbing, as well as mountaineering. Most notable experiences include a 173 km long trail running race and summiting a 7000 m high mountain.
 
 
 
