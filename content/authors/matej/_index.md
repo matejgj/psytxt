@@ -95,7 +95,7 @@ layout = {
   polar: {
     radialaxis: {
       visible: true,
-      range: [0, 50]
+      range: [0, 100]
     }
   },
   showlegend: false
