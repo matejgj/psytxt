@@ -542,6 +542,13 @@ Best results are given in bold.
 </table>
 </div>
 
+## Terms of use
+
+Please note the following in case you download the datasets:
+* You cannot transfer or reproduce any part of the dataset.
+* You cannot attempt to identify any user in the dataset.
+* You cannot contact any user in the dataset.
+
 ## Dataset Request Form
 #### Feel free to contact us if you need one of our datasets for your research
 
