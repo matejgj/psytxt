@@ -78,42 +78,31 @@ I am currently focused on the development of resources that can help to tackle t
 In my free time, I like to do psychological experiments on myself and push out of the comfort zone. I am into long distance trail running, rock and alpine climbing, as well as mountaineering. The most notable experiences include finishing a 173 km long trail running race and summiting a 7000 m high mountain.
 
 
-<html>
-
-
 <body>
-<canvas id="traits"></canvas>
+	<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+
 <script>
 
-var ctx = document.getElementById('traits').getContext('2d');
+data = [{
+  type: 'scatterpolar',
+  r: [39, 28, 8, 7, 28, 39],
+  theta: ['A','B','C', 'D', 'E', 'A'],
+  fill: 'toself'
+}]
 
-options = {
-    scale: {
-        angleLines: {
-            display: false
-        },
-        ticks: {
-            suggestedMin: 50,
-            suggestedMax: 100
-        }
+layout = {
+  polar: {
+    radialaxis: {
+      visible: true,
+      range: [0, 50]
     }
-};
-
-data: {
-    labels: ['Agreeableness', 'Openness', 'Conscientiousness', 'Extraversion',
-      'Neuroticism'],
-    datasets: [{
-        data: [25, 90, 50, 20, 10]
-    }]
+  },
+  showlegend: false
 }
 
-var myRadarChart = new Chart(ctx, {
-    type: 'radar',
-    data: data,
-    options: options
-});
+Plotly.newPlot("myDiv", data, layout)
 
 
 </script>
+
 </body>
-</html>
