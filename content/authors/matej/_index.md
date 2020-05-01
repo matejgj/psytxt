@@ -79,10 +79,11 @@ In my free time, I like to do psychological experiments on myself and push out o
 
 
 
-<canvas id="traits"></canvas>
+
 
 
 <script>
+<canvas id="traits"></canvas>
 var ctx = document.getElementById('traits').getContext('2d');
 
 options = {
