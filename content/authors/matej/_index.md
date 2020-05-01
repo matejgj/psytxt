@@ -85,9 +85,9 @@ In my free time, I like to do psychological experiments on myself and push out o
 
 data = [{
   type: 'scatterpolar',
-  r: [47, 83, 49, 39, 27, 87, 88, 87, 81, 1, 32],
+  r: [47, 83, 49, 39, 27, 87, 9, 88, 87, 81, 1, 32],
   theta: ['Agreeableness', 'Openness', 'Conscientiousness', 'Extraversion',
-       'Neuroticism','Adventurousness','Intellect','Progressivism','Cooperation','Orderliness','Emotionality'],
+       'Neuroticism','Adventurousness','Gregariousness','Intellect','Progressivism','Cooperation','Orderliness','Emotionality'],
   fill: 'toself'
 }]
 
