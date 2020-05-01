@@ -81,7 +81,6 @@ In my free time, I like to do psychological experiments on myself and push out o
 
 <canvas id="traits"></canvas>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 
 <script>
 var ctx = document.getElementById('traits').getContext('2d');
