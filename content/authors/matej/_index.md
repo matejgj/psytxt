@@ -78,12 +78,13 @@ I am currently focused on the development of resources that can help to tackle t
 In my free time, I like to do psychological experiments on myself and push out of the comfort zone. I am into long distance trail running, rock and alpine climbing, as well as mountaineering. The most notable experiences include finishing a 173 km long trail running race and summiting a 7000 m high mountain.
 
 
+<html>
 
 
-
-
-<script>
+<body>
 <canvas id="traits"></canvas>
+<script>
+
 var ctx = document.getElementById('traits').getContext('2d');
 
 options = {
@@ -114,4 +115,5 @@ var myRadarChart = new Chart(ctx, {
 
 
 </script>
-
+</body>
+</html>
