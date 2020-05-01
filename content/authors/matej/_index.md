@@ -79,14 +79,15 @@ In my free time, I like to do psychological experiments on myself and push out o
 
 
 <body>
-	<div id='myDiv'><!-- Plotly chart will be drawn inside this DIV --></div>
+	<div id='radar'><!-- Plotly chart will be drawn inside this DIV --></div>
 
 <script>
 
 data = [{
   type: 'scatterpolar',
-  r: [39, 28, 8, 7, 28, 39],
-  theta: ['A','B','C', 'D', 'E', 'A'],
+  r: [47, 83, 49, 39, 27, 87, 88, 87, 81, 1, 32],
+  theta: ['Agreeableness', 'Openness', 'Conscientiousness', 'Extraversion',
+       'Neuroticism','Adventurousness','Intellect','Progressivism','Cooperation','Orderliness','Emotionality'],
   fill: 'toself'
 }]
 
@@ -100,7 +101,7 @@ layout = {
   showlegend: false
 }
 
-Plotly.newPlot("myDiv", data, layout)
+Plotly.newPlot("radar", data, layout)
 
 
 </script>
