@@ -91,6 +91,9 @@ layout = {
     radialaxis: {
       visible: true,
       range: [0, 100]
+    },
+    angularaxis: {
+      tickfont: 20
     }
   },
   showlegend: false
