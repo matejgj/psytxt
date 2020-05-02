@@ -85,9 +85,8 @@ data = [{
 }]
 
 layout = {
+  title: 'Our personality profile'
   autosize: true,
-  width: 500,
-  height: 500,
   polar: {
     radialaxis: {
       visible: true,
@@ -97,7 +96,7 @@ layout = {
   showlegend: false
 }
 
-Plotly.newPlot("radar", data, layout)
+Plotly.newPlot("radar", data, layout, {displayModeBar: false})
 
 
 </script>
