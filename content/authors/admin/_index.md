@@ -73,7 +73,7 @@ user_groups:
 We are a team of **computer scientists** that want to be **psychologists** and **psychologists** that want to be **computer scientists**.
 
 <body>
-	<div id='radar'><!-- Plotly chart will be drawn inside this DIV --></div>
+	<div id='radar2'><!-- remove 2 to display Plotly chart will be drawn inside this DIV --></div>
 
 <script>
 
