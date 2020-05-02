@@ -85,6 +85,7 @@ data = [{
 }]
 
 layout = {
+  autosize: true,
   polar: {
     radialaxis: {
       visible: true,
