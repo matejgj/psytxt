@@ -44,12 +44,36 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:matej.gjurkovic@fer.hr"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/matejgjurkovic/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/matgju
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=TMbUXMMAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Matej_Gjurkovic
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8345-2138
+- icon: arxiv
+  icon_pack: ai
+  link: http://arxiv.org/a/gjurkovic_m_1
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/matej-gjurkovic/
+- icon: osf
+  icon_pack: ai
+  link: osf.io/cfyw3
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Matej-Gjurkovic/51130892
+
+
+  
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/jsnajder
