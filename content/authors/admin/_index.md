@@ -85,7 +85,7 @@ data = [{
 }]
 
 layout = {
-  title: 'Our personality profile'
+  title: 'Our personality profile',
   autosize: true,
   polar: {
     radialaxis: {
