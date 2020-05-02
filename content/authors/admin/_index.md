@@ -72,25 +72,6 @@ user_groups:
 ---
 We are a team of **computer scientists** that want to be **psychologists** and **psychologists** that want to be **computer scientists**.
 
-With this project, we aim to set the ground for a **truly interdisciplinary** perspective on
-computational personality research by developing datasets and models for personality
-prediction and analysis based on online textual interactions. The overarching goal of our
-project is to **bring the two communities closer together** and ultimately increase their capacity
-to carry out relevant and valid research using computational text analysis methods,
-contributing to **both** research fields. To this end, the project will focus on three research
-objectives: 
-1. Development of datasets adequate for text-based personality research.
-2. Development of comprehensive NLP models for personality prediction and analysis.
-3. Investigating a number of research questions that relate personality psychology to
-language use by means of confirmatory and exploratory studies that leverage the developed
-datasets and computational models.
-
-
-We are part of the [Text Analysis and Knowledge Engineering Lab](http://www.takelab.fer.hr) at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/en).
-{{< figure library="true" src="team_small.jpg" title="psy.txt team" lightbox="true" >}}
-
-
-
 <body>
 	<div id='radar'><!-- Plotly chart will be drawn inside this DIV --></div>
 
@@ -99,7 +80,7 @@ We are part of the [Text Analysis and Knowledge Engineering Lab](http://www.take
 data = [{
   type: 'scatterpolar',
   r: [89.2,42.4,75.4,46.4,19.8,53.2,69.4,49,30.6,26.2,55.2,61.2,61.6,63.8,79.2,66.6,74.2,63,51.2,68.2,36.8,41.8,42.8,14,22.6,35.4,22,32.4,32.2,88.4,63.2,49,82,87.8,81.6],
-  theta: ['Openness','Conscientiousness','Agreeableness','Extraversion','Neuroticism','Achievement Striving','Cautiousness','Dutifulness','Orderliness','Self-Discipline','Self-Efficacy','Altruism','Cooperation','Modesty','Morality','Sympathy','Trust','Activity','Assertiveness','Cheerfulness','Excitement Seeking','Friendliness','Gregariousness','Anxiety','Anger','Depression','Self-Consciousness','Immoderation','Vulnerability','Adventurousness','Artistic Interests','Emotionality','Imagination','Intellect','Liberalism',
+  theta: ['Openness','Conscientiousness','Agreeableness','Extraversion','Neuroticism','Achievement Striving','Cautiousness','Dutifulness','Orderliness','Self-Discipline','Self-Efficacy','Altruism','Cooperation','Modesty','Morality','Sympathy','Trust','Activity','Assertiveness','Cheerfulness','Excitement Seeking','Friendliness','Gregariousness','Anxiety','Anger','Depression','Self-Consciousness','Immoderation','Vulnerability','Adventurousness','Artistic Interests','Emotionality','Imagination','Intellect','Liberalism']
   fill: 'toself'
 }]
 
@@ -119,3 +100,22 @@ Plotly.newPlot("radar", data, layout)
 </script>
 
 </body>
+
+With this project, we aim to set the ground for a **truly interdisciplinary** perspective on
+computational personality research by developing datasets and models for personality
+prediction and analysis based on online textual interactions. The overarching goal of our
+project is to **bring the two communities closer together** and ultimately increase their capacity
+to carry out relevant and valid research using computational text analysis methods,
+contributing to **both** research fields. To this end, the project will focus on three research
+objectives: 
+1. Development of datasets adequate for text-based personality research.
+2. Development of comprehensive NLP models for personality prediction and analysis.
+3. Investigating a number of research questions that relate personality psychology to
+language use by means of confirmatory and exploratory studies that leverage the developed
+datasets and computational models.
+
+
+We are part of the [Text Analysis and Knowledge Engineering Lab](http://www.takelab.fer.hr) at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/en).
+{{< figure library="true" src="team_small.jpg" title="psy.txt team" lightbox="true" >}}
+
+
