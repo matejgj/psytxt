@@ -89,3 +89,33 @@ datasets and computational models.
 We are part of the [Text Analysis and Knowledge Engineering Lab](http://www.takelab.fer.hr) at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/en).
 {{< figure library="true" src="team_small.jpg" title="psy.txt team" lightbox="true" >}}
 
+
+
+<body>
+	<div id='radar'><!-- Plotly chart will be drawn inside this DIV --></div>
+
+<script>
+
+data = [{
+  type: 'scatterpolar',
+  r: [89.2,42.4,75.4,46.4,19.8,53.2,69.4,49,30.6,26.2,55.2,61.2,61.6,63.8,79.2,66.6,74.2,63,51.2,68.2,36.8,41.8,42.8,14,22.6,35.4,22,32.4,32.2,88.4,63.2,49,82,87.8,81.6],
+  theta: ['Openness','Conscientiousness','Agreeableness','Extraversion','Neuroticism','Achievement Striving','Cautiousness','Dutifulness','Orderliness','Self-Discipline','Self-Efficacy','Altruism','Cooperation','Modesty','Morality','Sympathy','Trust','Activity','Assertiveness','Cheerfulness','Excitement Seeking','Friendliness','Gregariousness','Anxiety','Anger','Depression','Self-Consciousness','Immoderation','Vulnerability','Adventurousness','Artistic Interests','Emotionality','Imagination','Intellect','Liberalism',
+  fill: 'toself'
+}]
+
+layout = {
+  polar: {
+    radialaxis: {
+      visible: true,
+      range: [0, 100]
+    }
+  },
+  showlegend: false
+}
+
+Plotly.newPlot("radar", data, layout)
+
+
+</script>
+
+</body>
