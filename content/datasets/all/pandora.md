@@ -21,8 +21,7 @@ weight: 1
 
 ## Prediction
 
-In line with the idea of the reproducible research we provide the folds that we used for our baseline models so all prediction results can be compared. 
-We will try to maintain a leadboard.
+In line with the idea of reproducible research, we provide the folds that we used for our baseline models so all prediction results can be compared. We will try to maintain a leaderboard.
 
 These are the performances of our baseline models as described in [paper]({{< ref "https://psy.takelab.fer.hr/publication/gjurkovic-2020-pandora/index.md" >}}). 
 
