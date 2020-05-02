@@ -93,13 +93,14 @@ user_groups:
 #- Visitors
 ---
 
-I am that "what if" guy that generates much more questions than they can be answered which is also a primary reason why I enrolled in a PhD program after years of working as a software engineer. 
+I am that “what if” guy that generates many more questions than they can be answered which is also a primary reason why I enrolled in a Ph.D. program after years of working as a software engineer.
 
-I have always had an interest in psychology, but only as a hobby. This changed when I started learning about ML and in particular NLP and got an idea to combine those fields with psychology.
+I have always had an interest in psychology but only as a hobby. This changed when I started learning about ML and in particular NLP and got an idea to combine those fields with psychology.
 
 I am currently focused on the development of resources that can help to tackle the challenge of automating personality traits recognition based on the text.
 
-In my free time, I like to do psychological experiments on myself and push out of the comfort zone. I am into long distance trail running, rock and alpine climbing, as well as mountaineering. The most notable experiences include finishing a 173 km long trail running race and summiting a 7000 m high mountain.
+In my free time, I like to do psychological experiments on myself and push out of my comfort zone. I am into long-distance trail running, rock and alpine climbing, as well as mountaineering. 
+The most notable experiences include finishing a 173 km long trail running race and summiting a 7000 m high mountain.
 
 
 <body>
