@@ -79,13 +79,13 @@ We are a team of **computer scientists** that want to be **psychologists** and *
 
 data = [{
   type: 'scatterpolar',
-  r: [89.2,42.4,75.4,46.4,19.8,53.2,69.4,49,30.6,26.2,55.2,61.2,61.6,63.8,79.2,66.6,74.2,63,51.2,68.2,36.8,41.8,42.8,14,22.6,35.4,22,32.4,32.2,88.4,63.2,49,82,87.8,81.6],
-  theta: ['Openness','Conscientiousness','Agreeableness','Extraversion','Neuroticism','Achievement Striving','Cautiousness','Dutifulness','Orderliness','Self-Discipline','Self-Efficacy','Altruism','Cooperation','Modesty','Morality','Sympathy','Trust','Activity','Assertiveness','Cheerfulness','Excitement Seeking','Friendliness','Gregariousness','Anxiety','Anger','Depression','Self-Consciousness','Immoderation','Vulnerability','Adventurousness','Artistic Interests','Emotionality','Imagination','Intellect','Liberalism'],
+  r: [89.2,42.4,75.4,46.4,19.8],
+  theta: ['Openness','Conscientiousness','Agreeableness','Extraversion','Neuroticism'],
   fill: 'toself'
 }]
 
 layout = {
-  title: 'Our personality profile',
+  title: 'Our personality profile'
   autosize: true,
   polar: {
     radialaxis: {
