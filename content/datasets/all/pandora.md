@@ -547,6 +547,10 @@ Please note the following in case you download the datasets:
 * You cannot transfer or reproduce any part of the dataset.
 * You cannot attempt to identify any user in the dataset.
 * You cannot contact any user in the dataset.
+* You can not display users' names and sensitive messages publicly
+* You should check (via Reddit API) if users removed some of their content and/or deleted their accounts
+* You can report your findings publicly only on a aggregate level
+
 
 ## Dataset Request Form
 #### Feel free to contact us if you need one of our datasets for your research
