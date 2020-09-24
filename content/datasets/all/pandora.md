@@ -549,7 +549,7 @@ Please note the following in case you download the datasets:
 * You cannot contact any user in the dataset.
 * You can not display users' names and sensitive messages publicly
 * You should check (via Reddit API) if users removed some of their content and/or deleted their accounts
-* You can report your findings publicly only on a aggregate level
+* You can report your findings publicly only on an aggregate level
 
 
 ## Dataset Request Form
