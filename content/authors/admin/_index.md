@@ -51,9 +51,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +72,40 @@ user_groups:
 ---
 We are a team of **computer scientists** that want to be **psychologists** and **psychologists** that want to be **computer scientists**.
 
+<body>
+	<div id='radar2'><!-- remove 2 to display Plotly chart will be drawn inside this DIV --></div>
+
+<script>
+
+data = [{
+  type: 'scatterpolar',
+  r: [89.2,42.4,75.4,46.4,19.8],
+  theta: ['Openness','Conscientiousness','Agreeableness','Extraversion','Neuroticism'],
+  fill: 'toself'
+}]
+
+layout = {
+  title: 'Our personality profile',
+  autosize: true,
+  polar: {
+    radialaxis: {
+      visible: true,
+      range: [0, 100]
+    },
+    angularaxis: {
+      tickfont: 20
+    }
+  },
+  showlegend: false
+}
+
+Plotly.newPlot("radar", data, layout, {displayModeBar: false})
+
+
+</script>
+
+</body>
+
 With this project, we aim to set the ground for a **truly interdisciplinary** perspective on
 computational personality research by developing datasets and models for personality
 prediction and analysis based on online textual interactions. The overarching goal of our
@@ -86,6 +120,7 @@ language use by means of confirmatory and exploratory studies that leverage the 
 datasets and computational models.
 
 
-We are part of [Text Analysis and Knowledge Engineering Lab](https://www.takelab.fer.hr) at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.hr).
+We are part of the [Text Analysis and Knowledge Engineering Lab](http://www.takelab.fer.hr) at the [Faculty of Electrical Engineering and Computing, University of Zagreb](https://www.fer.unizg.hr/en).
 {{< figure library="true" src="team_small.jpg" title="psy.txt team" lightbox="true" >}}
+
 

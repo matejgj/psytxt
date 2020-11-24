@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Matej's bio
+bio:
 
 #interests:
 #- Artificial Intelligence
@@ -44,12 +44,36 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:matej.gjurkovic@fer.hr"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/matejgjurkovic/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/matgju
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=TMbUXMMAAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Matej_Gjurkovic
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8345-2138
+- icon: arxiv
+  icon_pack: ai
+  link: http://arxiv.org/a/gjurkovic_m_1
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/matej-gjurkovic/
+- icon: osf
+  icon_pack: ai
+  link: osf.io/cfyw3
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Matej-Gjurkovic/51130892
+
+
+  
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/jsnajder
@@ -69,6 +93,42 @@ user_groups:
 #- Visitors
 ---
 
+I am that “what if” guy that generates many more questions than they can be answered which is also a primary reason why I enrolled in a Ph.D. program after years of working as a software engineer.
 
-Long bio
+I have always had an interest in psychology but only as a hobby. This changed when I started learning about ML and in particular NLP and got an idea to combine those fields with psychology.
 
+I am currently focused on the development of resources that can help to tackle the challenge of automating personality traits recognition based on the text.
+
+In my free time, I like to do psychological experiments on myself and push out of my comfort zone. I am into long-distance trail running, rock and alpine climbing, as well as mountaineering. 
+The most notable experiences include finishing a 173 km long trail running race and summiting a 7000 m high mountain.
+
+
+<body>
+	<div id='radar'><!-- Plotly chart will be drawn inside this DIV --></div>
+
+<script>
+
+data = [{
+  type: 'scatterpolar',
+  r: [47, 83, 90, 49, 39, 27, 87, 9, 88, 87, 81, 1, 32],
+  theta: ['Agreeableness', 'Openness', 'Imagination', 'Conscientiousness', 'Extraversion',
+       'Neuroticism','Adventurousness','Gregariousness','Intellect','Progressivism','Cooperation','Orderliness','Emotionality'],
+  fill: 'toself'
+}]
+
+layout = {
+  polar: {
+    radialaxis: {
+      visible: true,
+      range: [0, 100]
+    }
+  },
+  showlegend: false
+}
+
+Plotly.newPlot("radar", data, layout)
+
+
+</script>
+
+</body>
