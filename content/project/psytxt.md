@@ -21,7 +21,7 @@ PSY.TXT project (IP-2020-02-8671) is fully supported by Croatian Science Foundat
 
 ## Researchers
 
-We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb. → We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb as well as the Department of Psychology at the Faculty of Humanities and Social Sciences, University of Zagreb.
+We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb as well as the Department of Psychology at the Faculty of Humanities and Social Sciences, University of Zagreb.
 
 
 
