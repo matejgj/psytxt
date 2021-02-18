@@ -5,8 +5,6 @@ draft: false
 description: "The topic of this project are computational models for personality analysis and prediction from text"
 ---
 
-### Project Description
-
 The topic of this project are computational models for personality analysis and prediction from text. Although NLP and personality psychology have a high potential for synergy, the two fields have different goals and values and thus far remain largely disconnected from each other. The gap can be attributed to the lack of adequate datasets, lack of interpretable NLP models that target discourse-level linguistic phenomena, and lack of interdisciplinary skill sets among the researchers. With this project, we aim to narrow this gap and set the ground for truly interdisciplinary research on text-based personality analysis. 
 
 People differ in patterns of thinking, feeling, and behaving, which influences how they interact and adapt to the intrapsychic, physical, and social environments. The individual and stable differences are studied by the field of personality psychology. Many differences in personality get manifested in language and in the way language is used in social interactions. This makes language data a valuable source of data for personality research, especially in today’s era of social media and big data, with vast amounts of text generated on social media platforms. The large quantities of text, however, mandate a computational approach to data analysis, using methods from natural language processing (NLP) and machine learning. 
@@ -21,14 +19,11 @@ PSY.TXT project (IP-2020-02-8671) is fully supported by Croatian Science Foundat
 {{< figure library="true" src="HRZZ-eng.jpg" title="" lightbox="true" >}}
 
 
-
-
-# The team
+## Researchers
 
 We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb. → We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb as well as the Department of Psychology at the Faculty of Humanities and Social Sciences, University of Zagreb.
 
 
-## Researchers
 
 ### TakeLab, Faculty of Electrical Engineering and Computing
 
