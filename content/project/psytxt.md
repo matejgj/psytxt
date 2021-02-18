@@ -2,6 +2,7 @@
 title: "PSY.TXT project (IP-2020-02-8671)"
 date: 2021-02-18T21:55:18+01:00
 draft: false
+description: "The topic of this project are computational models for personality analysis and prediction from text"
 ---
 
 ### Project Description
