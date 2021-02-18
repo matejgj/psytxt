@@ -22,23 +22,34 @@ PSY.TXT project (IP-2020-02-8671) is fully supported by Croatian Science Foundat
 
 
 
-### The team
+# The team
 
 We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb. → We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb as well as the Department of Psychology at the Faculty of Humanities and Social Sciences, University of Zagreb.
 
 
+## Researchers
 
-##Researchers
+### TakeLab
 
-# TakeLab
-Jan Šnajder
-Matej Gjurković
-Iva Vukojević
-Mihaela Bošnjak
-Mladen Karan
+<ul>
+<li>Jan Šnajder</li>
+<li>Matej Gjurković</li>
+<li>Iva Vukojević</li>
+<li>Mihaela Bošnjak</li>
+<li>Mladen Karan</li>
+</ul>
 
-# Department of Psyhology at Faculty of Humanities and Social Sciences
-Denis Bratko
-Ana Butković
-Tena Vukasović Hlupić
-Martina Pocrnić
+
+### Department of Psyhology at Faculty of Humanities and Social Sciences
+
+<ul>
+<li>Denis Bratko</li>
+<li>Ana Butković</li>
+<li>Tena Vukasović Hlupić</li>
+<li>Martina Pocrnić</li>
+</ul>
+
+
+
+
+
