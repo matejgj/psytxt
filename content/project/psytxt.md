@@ -29,7 +29,7 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 
 ## Researchers
 
-### TakeLab
+### TakeLab, Faculty of Electrical Engineering and Computing
 
 <ul>
 <li>Jan Šnajder</li>
@@ -40,7 +40,7 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 </ul>
 
 
-### Department of Psyhology at Faculty of Humanities and Social Sciences
+### Department of Psyhology, Faculty of Humanities and Social Sciences
 
 <ul>
 <li>Denis Bratko</li>
