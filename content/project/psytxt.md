@@ -33,6 +33,13 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 <li>Iva Vukojević</li>
 <li>Mihaela Bošnjak</li>
 <li>Mladen Karan</li>
+
+##### Pre-PhD
+<li>Josip Jukić</li>
+<li>Ivan Crnomarković</li>
+
+##### Post-doc
+<li>TBD</li>
 </ul>
 
 
