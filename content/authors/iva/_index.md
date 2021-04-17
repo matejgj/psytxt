@@ -1,23 +1,23 @@
 ---
 # Display name
-name: Irina Masnikosa
+name: Iva Vukojević
 
 # Username (this should match the folder name)
 authors:
-- irina
+- iva
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Linguist on duty
+role: Psychologist on duty
 # Organizations/Affiliations
 organizations:
 - name: TakeLab, FER
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Irina's bio
+bio: Iva's bio
 
 #interests:
 #- Artificial Intelligence
@@ -43,7 +43,7 @@ bio: Irina's bio
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:irina.masnikosa@gfer.hr"
+  link: "mailto:iva.vukojevic1@gmail.com"
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -71,4 +71,3 @@ user_groups:
 
 
 Long bio
-
