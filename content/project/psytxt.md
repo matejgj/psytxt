@@ -39,7 +39,7 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 <li>Ivan Crnomarković</li>
 
 ##### Post-doc
-<li>TBD</li>
+<li>Irina Masnikosa</li>
 </ul>
 
 
