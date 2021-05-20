@@ -29,17 +29,13 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 
 <ul>
 <li>Jan Šnajder</li>
-<li>Matej Gjurković</li>
+<li>Irina Masnikosa</li>
 <li>Iva Vukojević</li>
 <li>Mihaela Bošnjak</li>
+<li>Matej Gjurković</li>
 <li>Mladen Karan</li>
-
-##### Soon to join formally
 <li>Josip Jukić</li>
 <li>Ivan Crnomarković</li>
-
-##### Post-doc
-<li>Irina Masnikosa</li>
 </ul>
 
 
