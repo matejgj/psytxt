@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Seaside dweller
+role: Cleaning enthusiast
 # Organizations/Affiliations
 organizations:
 - name: TakeLab, FER
