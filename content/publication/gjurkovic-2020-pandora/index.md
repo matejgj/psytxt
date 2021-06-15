@@ -8,5 +8,6 @@ abstract: "Personality and demographics are important variables in social scienc
 featured: true
 url_pdf: "https://www.aclweb.org/anthology/2021.socialnlp-1.12.pdf"
 publication: "Proceedings of the Ninth International Workshop on Natural Language Processing for Social Media, NAACL 2021"
+doi: "10.18653/v1/2021.socialnlp-1.12"
 ---
 
