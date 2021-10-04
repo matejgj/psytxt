@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ivan Crnomarković
+name: Sara Bakić
 
 # Username (this should match the folder name)
 authors:
@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: TO-DO list master
+role: TO-DO 
 # Organizations/Affiliations
 organizations:
 - name: TakeLab, FER
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ivan's bio
+bio: Sara's bio
 
 #interests:
 #- Artificial Intelligence
@@ -43,7 +43,7 @@ bio: Ivan's bio
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:icrnomarkovic@fer.hr"
+  link: "mailto:sara.bakic@fer.hr"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
