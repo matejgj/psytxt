@@ -28,7 +28,7 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 ### TakeLab, Faculty of Electrical Engineering and Computing
 
 <ul>
-<li>Jan Šnajder</li>
+<li>Jan Šnajder, Principal Investigator</li>
 <li>Irina Masnikosa</li>
 <li>Iva Vukojević</li>
 <li>Mihaela Bošnjak</li>
@@ -52,3 +52,9 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 
 
 
+
+## Factsheet
+
+IP-2020-02-8671 "Računalni modeli za predviđanje i analizu ličnosti na temelju teksta" (Computational Models for Text-Based Personality Prediction and Analysis)
+01.01.2021. — 31.12.2024.
+Funding: 1.412.000,00 kn
