@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Idea generator
+role: Mess generator
 # Organizations/Affiliations
 organizations:
 - name: TakeLab, FER
