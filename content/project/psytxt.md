@@ -19,6 +19,14 @@ PSY.TXT project (IP-2020-02-8671) is fully supported by Croatian Science Foundat
 {{< figure library="true" src="HRZZ-eng.jpg" title="" lightbox="true" >}}
 
 
+## Factsheet
+
+Project name: IP-2020-02-8671 "Računalni modeli za predviđanje i analizu ličnosti na temelju teksta" (Computational Models for Text-Based Personality Prediction and Analysis)
+
+Duration: 01.01.2021. — 31.12.2024.
+
+Funding: 1.412.000,00 kn
+
 ## Researchers
 
 We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of Electrical Engineering and Computing, University of Zagreb as well as the Department of Psychology at the Faculty of Humanities and Social Sciences, University of Zagreb.
@@ -52,9 +60,3 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 
 
 
-
-## Factsheet
-
-IP-2020-02-8671 "Računalni modeli za predviđanje i analizu ličnosti na temelju teksta" (Computational Models for Text-Based Personality Prediction and Analysis)
-01.01.2021. — 31.12.2024.
-Funding: 1.412.000,00 kn
