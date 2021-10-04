@@ -39,6 +39,7 @@ We are part of the Text Analysis and Knowledge Engineering Lab at the Faculty of
 <li>Jan Šnajder, Principal Investigator</li>
 <li>Irina Masnikosa</li>
 <li>Iva Vukojević</li>
+<li>Sara Bakić</li>
 <li>Mihaela Bošnjak</li>
 <li>Matej Gjurković</li>
 <li>Mladen Karan</li>
