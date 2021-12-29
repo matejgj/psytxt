@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: TO-DO 
+role: Debater
 # Organizations/Affiliations
 organizations:
 - name: TakeLab, FER
