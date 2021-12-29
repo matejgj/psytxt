@@ -97,9 +97,9 @@ I am the "what if" type who raises a lot more questions than he can answer. That
 
 I have always been interested in psychology, but only as a hobby. That changed when I started reading up on ML and NLP in particular and came up with the idea of combining these fields with psychology.
 
-I am currently focusing on developing resources that can help overcome the challenge of automatically recognizing personality traits from text.
+Currently, I am focusing on developing resources that can help overcome the challenge of automatically recognizing personality traits from texts.
 
-In my spare time, I enjoy conducting psychological experiments on myself and stepping out of my comfort zone. I enjoy ultra trail running, rock and alpine climbing, and mountaineering. 
+In my spare time, I like to conduct psychological experiments on myself and step out of my comfort zone. I enjoy running ultratrails, rock and mountain climbing, and mountaineering. 
 My most notable experiences include completing a 173km trail running race and climbing a 7000m mountain.
 
 
